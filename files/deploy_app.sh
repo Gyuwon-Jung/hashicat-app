@@ -12,7 +12,7 @@ cat << EOM > /var/www/html/index.html
 
   <!-- BEGIN -->
   <h1>Welcome to ${PREFIX}'s app. Replace this text with your own.</h1>
-  <center><img src="http://${TEAMPHOTO}/${WIDTH}/${HEIGHT}"></img></center>
+  <center><img src="http://${TEAMPHOTO}"></img></center>
   <center><h2>Meow World!</h2></center>
   Welcome to ${PREFIX}'s app. Replace this text with your own.
   <!-- END -->
