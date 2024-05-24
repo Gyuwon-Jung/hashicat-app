@@ -52,6 +52,6 @@ variable "placeholder" {
 }
 
 variable "teamphoto" {
-  default = github.com/KEA-4th-TEAM-BOOT/FrontEnd/assets/118448112/d5e2daf6-cfb6-4bac-b451-75068bf79f57
+  default = "github.com/KEA-4th-TEAM-BOOT/FrontEnd/assets/118448112/d5e2daf6-cfb6-4bac-b451-75068bf79f57"
   description = "TeamBoot Image"
 }
