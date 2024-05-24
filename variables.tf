@@ -50,3 +50,8 @@ variable "placeholder" {
   default     = "placekitten.com"
   description = "Image-as-a-service URL. Some other fun ones to try are fillmurray.com, placecage.com, placebeard.it, loremflickr.com, baconmockup.com, placeimg.com, placebear.com, placeskull.com, stevensegallery.com, placedog.net"
 }
+
+variable "teamphoto" {
+  default = github.com/KEA-4th-TEAM-BOOT/FrontEnd/assets/118448112/d5e2daf6-cfb6-4bac-b451-75068bf79f57
+  description = "TeamBoot Image"
+}
